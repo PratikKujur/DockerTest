@@ -1,4 +1,4 @@
-This repo is made while is was learning about docker.
+This repo was made while i was learning about docker.
 Things that i have learned-:
 
 -Dockers And Containers.
